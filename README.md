@@ -18,7 +18,7 @@ An educational monthly budget calculator for Philippine households, with a purch
 | Layer | Tools |
 |---|---|
 | Backend | Python, FastAPI, Pydantic, SQLite (local demo) |
-| Frontend | React 18, TypeScript, Vite 5 |
+| Frontend | React 18, TypeScript, Vite 6 |
 | Quality | pytest, TypeScript strict build, GitHub Actions CI |
 
 ## Project structure
